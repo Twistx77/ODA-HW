@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADS8691
+D ADS869x 18-Bit, High-Speed, Single-Supply, SAR ADC Data Acquisition System
+$ENDCMP
+#
+#End Doc Library
